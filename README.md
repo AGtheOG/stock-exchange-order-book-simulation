@@ -14,7 +14,6 @@ This project implements a simple limit order book using Node.js and Express. It 
 ## Project Structure
 
 ```
-.
 ─ index.ts             # Main logic and server
 ─ index.spec.ts        # Core functionality tests
 ─ assignment.mock.ts   # Quote-related test

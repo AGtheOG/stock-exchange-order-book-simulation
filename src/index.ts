@@ -122,7 +122,7 @@ app.get("/balance/:userId", (req, res) => {
 })
 
 app.get("/quote", (req, res) => {
-  // TODO: Assignment
+  // TODO
 });
 
 function flipBalance(userId1: string, userId2: string, quantity: number, price: number) {
